@@ -1,2 +1,2 @@
-# PlatformerGame_Project2
-unity2d platformer game
+# Project2_PlatformerGame
+unity 2d platformer game
